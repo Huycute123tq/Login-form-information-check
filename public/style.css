@@ -25,7 +25,7 @@ nav li a{
 }
 
 nav li a:hover{
-    color: yellow;
+    color: rgb(246, 246, 11);
     text-decoration: none;
 }
 
